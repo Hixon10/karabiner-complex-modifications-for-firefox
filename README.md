@@ -8,7 +8,7 @@ This set of rules contains the following mappings:
 
 ## How to apply this rules
 1. Open https://genesy.github.io/karabiner-complex-rules-generator
-2. Copy `firefox.json` for this repo to the form 
+2. Copy `firefox.json` from this repo to the form 
 3. Press `Install!` button
 
 ## Why do we need to use `Karabiner-Elements`, when MacOS allows to change hotkeys for `Copy/Paste/Select all...`? 
