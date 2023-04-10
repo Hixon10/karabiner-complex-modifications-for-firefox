@@ -4,6 +4,7 @@ This set of rules contains the following mappings:
 1. `copy` with `ctrl + c` (`cmd + c` also works)
 2. `paste` with `ctrl + v` (`cmd + v` also works)
 3. `select all` with `ctrl + a` (`cmd + a` also works)
+4. `reload page` with `ctrl +r` (`cmd + r` aslo works)
 
 ## How to apply this rules
 1. Open https://genesy.github.io/karabiner-complex-rules-generator
