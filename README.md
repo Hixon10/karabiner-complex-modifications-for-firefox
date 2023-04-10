@@ -12,7 +12,7 @@ This set of rules contains the following mappings:
 3. Press `Install!` button
 
 ## Why do we need to use `Karabiner-Elements`, when MacOS allows to change hotkeys for `Copy/Paste/Select all...`? 
-There is a bug https://bugzilla.mozilla.org/show_bug.cgi?id=1333781 , because of which we cannot use built-in functionalit of MacOS for this case. 
+There is a bug https://bugzilla.mozilla.org/show_bug.cgi?id=1333781 , because of which we cannot use built-in feature of MacOS for this case. 
 
 ## How to add another hotkeys to Karabiner?
 Read this docs https://karabiner-elements.pqrs.org/docs/json/typical-complex-modifications-examples/
